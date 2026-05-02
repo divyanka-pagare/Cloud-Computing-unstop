@@ -1,4 +1,5 @@
 What is Cloud Computing ?
+
 Cloud computing is Internet-based computing which is a shared pool of resources that is  available over a broad network.
 Or in other terms It means accessing the services of cloud on Pay as you go basis (PAYG)
 
