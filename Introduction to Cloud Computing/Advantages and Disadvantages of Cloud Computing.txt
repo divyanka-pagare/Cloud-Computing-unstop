@@ -1,0 +1,21 @@
+Advantages and Disadvantages of Cloud Computing
+ 
+
+As everything has some pros and cons here we will discuss what all are the advantages and disadvantages of using cloud computing.
+
+
+Advantages
+Data backup (There is always a data backup available as its on cloud and one can access it from anywhere if you have the right credentials )
+Accessibility and collaboration (This made the work from home easy as multiple people can come together and collaborate and work)
+No maintenance cost (You don't have to maintain the servers its taken care by the Amazon)
+Mobility ( If you have internet connection you can work from anywhere its mobile)
+Pay as you go (You only need to pay for what you are using )
+Unlimited storage (lets say your storage is full if you are using hard disk on need to buy extra disk for new data but in cloud you can get extra space within fer seconds )
+Data security (There is a multiple security level that is applied by AWS )
+ 
+
+Disadvantages
+Internet connectivity (If you don't have a good internet connection so you won't be able to use the )
+Vendor lock in (Let's suppose if a company is using AWS as a cloud service at initial stage and after 3-4 years the company want to change the vendor to GCP let’s say just because of some features so all the data and everything that is there in AWS need to be shifted to GCP and that can cause a lot of complications  )
+Limited control (You only have a limited control of the services)
+Sense of security
