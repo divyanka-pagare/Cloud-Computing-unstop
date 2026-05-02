@@ -1,0 +1,14 @@
+What is Cloud Computing ?
+Cloud computing is Internet-based computing which is a shared pool of resources that is  available over a broad network.
+Or in other terms It means accessing the services of cloud on Pay as you go basis (PAYG)
+
+PAYG allows a user to scale, customize or provision computing resources, including software, storage and development platforms. 
+Resource charges are based on used services, versus an entire infrastructure. 
+In simple terms you need to pay only for the resources that you are using.
+
+Public cloud resources approach and apply the PAYG model differently. 
+For example, a user provisioning a dedicated cloud server is generally billed according to server power and usage and on a recurring basis. 
+Software as a Service (SaaS) works similarly, where a user leases software and customized features. 
+Storage as a Service (SaaS) billing rotates on a frequent basis because storage requirements increase are usually subject to gradually increased pricing.
+
+We will be discussing SaaS further in the course.
