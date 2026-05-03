@@ -1,0 +1,35 @@
+Cloud deployment models
+ 
+
+Public cloud
+Typically have massive amounts of available space, which translates into easy scalability. Recommended for software development and collaborative projects.
+
+Public cloud is open to all that is open to all to  store and access information via the Internet.
+Offer networking services compute virtualization & storage over the public network 
+Very cost effective
+Not very secure
+No setup or maintenance required
+ 
+
+Private
+Managed and used by a single organization.
+Offers greater control over the data and resources.
+ Offers better privacy and higher level of security.
+More expensive than the Public Cloud.
+Since it is managed by a single organization, it has a significant maintenance cost.
+ 
+
+Community
+Similar to public cloud but offers its services to a specific set of users who share a common objective/interest.
+Managed and hosted internally or by a third-party vendor.
+Cheaper and more efficient than the public cloud. 
+Not so popular hence is not available across all industries.
+ 
+
+Hybrid
+It's a combinations of two or more models and offers
+flexible services.
+Cost effective as it can use the public cloud too.
+High level of security as it can use a private cloud too.
+It's a little complex to set-up.
+Critical use cases
